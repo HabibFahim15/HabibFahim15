@@ -60,8 +60,9 @@
 ###
 
 <br clear="both">
+[![](https://visitcount.itsvg.in/api?id=Amite55&icon=1&color=0)](https://visitcount.itsvg.in)
 
 <img src="https://raw.githubusercontent.com/HabibFahim15/HabibFahim15/output/snake.svg" alt="Snake animation" />
 
 ###
-[![](https://visitcount.itsvg.in/api?id=Amite55&icon=1&color=0)](https://visitcount.itsvg.in)
+
